@@ -6,16 +6,6 @@
       "author": "Alice Walker"
     },
     {
-      "id": 2,
-      "quote": "Y’all is the best, most inclusive, second-person, plural pronoun in the English-speaking world.",
-      "author": "Hannah Gadsby"
-    },
-    {
-      "id": 3,
-      "quote": "today a man on the street pointed to me & said ‘what the hell is that!?’ i wanted to turn around, tell him that i got this dress on sale & i got this body for free but you have been making me pay for both ever since.",
-      "author": "Alok Vaid Menon"
-    },
-    {
       "id": 4,
       "quote": "You gain strength, courage and confidence by every experience in which you really stop to look fear in the face. You are able to say to yourself, 'I have lived through this horror. I can take the next thing that comes along.' You must do the thing you think you cannot do.",
       "author": "Eleanor Roosevelt"
@@ -34,16 +24,6 @@
       "id": 7,
       "quote": "Our greatest glory is not in never falling, but in rising everytime we fall.",
       "author": "Confucius"
-    },
-    {
-      "id": 8,
-      "quote": "Don't count the days, make the days count.",
-      "author": "Muhammad Ali"
-    },
-    {
-      "id": 9,
-      "quote": "Not everything that is faced can be changed, but nothing can be changed until it is faced.",
-      "author": "James Baldwin"
     },
     {
       "id": 10,
@@ -68,328 +48,119 @@
       "createdAt": 1558524358
     },
     {
+      "quoteId": 5,
       "id": 3
     },
     {
+      "quoteId": 5,
       "id": 4
     },
     {
+      "quoteId": 5,
       "id": 5
     },
     {
+      "quoteId": 5,
       "id": 6
     },
     {
+      "quoteId": 5,
       "id": 7
     },
     {
+      "quoteId": 5,
       "id": 8
     },
     {
+      "quoteId": 5,
       "id": 9
     },
     {
+      "quoteId": 5,
       "id": 10
     },
     {
+      "quoteId": 5,
       "id": 11
     },
     {
+      "quoteId": 5,
       "id": 12
     },
     {
+      "quoteId": 5,
       "id": 13
     },
     {
+      "quoteId": 5,
       "id": 14
     },
     {
+      "quoteId": 5,
       "id": 15
     },
     {
+      "quoteId": 5,
       "id": 16
     },
     {
+      "quoteId": 5,
       "id": 17
     },
     {
+      "quoteId": 5,
       "id": 18
     },
     {
+      "quoteId": 5,
       "id": 19
     },
     {
+      "quoteId": 5,
       "id": 20
     },
     {
+      "quoteId": 5,
       "id": 21
     },
     {
+      "quoteId": 5,
+      "createdAt": 1671745991887,
       "id": 22
     },
     {
+      "quoteId": 5,
+      "createdAt": 1671746009458,
       "id": 23
     },
     {
+      "quoteId": 5,
+      "createdAt": 1671746024961,
       "id": 24
     },
     {
+      "quoteId": 5,
       "id": 25
     },
     {
+      "quoteId": 5,
       "id": 26
     },
     {
+      "quoteId": 5,
       "id": 27
     },
     {
+      "quoteId": 5,
       "id": 28
     },
     {
+      "quoteId": 5,
       "id": 29
     },
     {
+      "quoteId": 5,
       "id": 30
-    },
-    {
-      "id": 31
-    },
-    {
-      "id": 32
-    },
-    {
-      "id": 33
-    },
-    {
-      "id": 34
-    },
-    {
-      "id": 35
-    },
-    {
-      "id": 36
-    },
-    {
-      "id": 37
-    },
-    {
-      "id": 38
-    },
-    {
-      "id": 39
-    },
-    {
-      "id": 40
-    },
-    {
-      "id": 41
-    },
-    {
-      "id": 42
-    },
-    {
-      "id": 43
-    },
-    {
-      "id": 44
-    },
-    {
-      "id": 45
-    },
-    {
-      "id": 46
-    },
-    {
-      "id": 47
-    },
-    {
-      "id": 48
-    },
-    {
-      "id": 49
-    },
-    {
-      "id": 50
-    },
-    {
-      "id": 51
-    },
-    {
-      "id": 52
-    },
-    {
-      "id": 53
-    },
-    {
-      "id": 54
-    },
-    {
-      "id": 55
-    },
-    {
-      "id": 56
-    },
-    {
-      "id": 57
-    },
-    {
-      "id": 58
-    },
-    {
-      "id": 59
-    },
-    {
-      "id": 60
-    },
-    {
-      "id": 61
-    },
-    {
-      "id": 62
-    },
-    {
-      "id": 63
-    },
-    {
-      "id": 64
-    },
-    {
-      "id": 65
-    },
-    {
-      "id": 66
-    },
-    {
-      "id": 67
-    },
-    {
-      "id": 68
-    },
-    {
-      "id": 69
-    },
-    {
-      "id": 70
-    },
-    {
-      "id": 71
-    },
-    {
-      "id": 72
-    },
-    {
-      "id": 73
-    },
-    {
-      "id": 74
-    },
-    {
-      "id": 75
-    },
-    {
-      "id": 76
-    },
-    {
-      "id": 77
-    },
-    {
-      "id": 78
-    },
-    {
-      "id": 79
-    },
-    {
-      "id": 80
-    },
-    {
-      "id": 81
-    },
-    {
-      "id": 82
-    },
-    {
-      "id": 83
-    },
-    {
-      "id": 84
-    },
-    {
-      "id": 85
-    },
-    {
-      "id": 86
-    },
-    {
-      "id": 87
-    },
-    {
-      "id": 88
-    },
-    {
-      "id": 89
-    },
-    {
-      "id": 90
-    },
-    {
-      "id": 91
-    },
-    {
-      "id": 92
-    },
-    {
-      "id": 93
-    },
-    {
-      "id": 94
-    },
-    {
-      "id": 95
-    },
-    {
-      "id": 96
-    },
-    {
-      "id": 97
-    },
-    {
-      "id": 98
-    },
-    {
-      "id": 99
-    },
-    {
-      "id": 100
-    },
-    {
-      "id": 101
-    },
-    {
-      "id": 102
-    },
-    {
-      "id": 103
-    },
-    {
-      "id": 104
-    },
-    {
-      "id": 105
-    },
-    {
-      "id": 106
-    },
-    {
-      "id": 107
-    },
-    {
-      "id": 108
-    },
-    {
-      "id": 109
-    },
-    {
-      "id": 110
     }
   ]
 }
